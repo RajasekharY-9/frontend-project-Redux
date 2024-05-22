@@ -1,0 +1,23 @@
+project-root/
+│
+├── public/
+│   └── index.html
+│
+├── src/
+│   ├── actions/
+│   │   └── authActions.js
+│   ├── components/
+│   │   ├── AppCrud.js
+│   │   ├── Login.js
+│   │   └── ProtectedRoute.js
+│   ├── reducers/
+│   │   └── authReducer.js
+│   ├── store.js
+│   ├── App.js
+│   ├── index.js
+│   └── data/
+│       ├── users.json
+│       └── items.json
+│
+├── package.json
+└── README.md
